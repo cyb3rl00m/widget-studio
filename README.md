@@ -9,11 +9,12 @@
 A clock, the weather, this month's calendar and your system stats, styled exactly how you want
 them and pinned to your desktop.
 
-[![tests](https://github.com/cyb3rl00m/widget-studio/actions/workflows/tests.yml/badge.svg)](https://github.com/cyb3rl00m/widget-studio/actions/workflows/tests.yml)
 [![release](https://img.shields.io/github/v/release/cyb3rl00m/widget-studio?color=2e6b3a)](https://github.com/cyb3rl00m/widget-studio/releases/latest)
 [![license](https://img.shields.io/github/license/cyb3rl00m/widget-studio?color=2e6b3a)](LICENSE)
 ![platform](https://img.shields.io/badge/platform-Linux-2e6b3a)
 ![GTK 4](https://img.shields.io/badge/GTK%204-libadwaita-81c784)
+[![Made with Claude](https://img.shields.io/badge/made%20with-Claude-d97757)](#credits)
+
 
 [**Download**](https://github.com/cyb3rl00m/widget-studio/releases/latest) ·
 [Install](#install) ·
