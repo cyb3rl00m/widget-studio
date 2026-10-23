@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Widget Studio
+GenericName=Desktop Widgets
+Comment=Design clock, weather, calendar and system widgets for your desktop
+Exec=widget-studio
+Icon=io.github.cyb3rl00m.WidgetStudio
+Terminal=false
+Categories=GTK;Utility;Settings;DesktopSettings;
+Keywords=widget;desktop;clock;weather;calendar;conky;system;monitor;
+StartupNotify=true

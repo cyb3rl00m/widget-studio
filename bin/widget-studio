@@ -1,0 +1,4 @@
+#!/bin/sh
+# Launcher installed to /usr/bin/widget-studio by the .deb package.
+export PYTHONPATH="/usr/lib/widget-studio${PYTHONPATH:+:$PYTHONPATH}"
+exec python3 -m widget_studio "$@"

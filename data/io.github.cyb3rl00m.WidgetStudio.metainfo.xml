@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>io.github.cyb3rl00m.WidgetStudio</id>
+  <name>Widget Studio</name>
+  <summary>Design desktop widgets and pin them to your screen</summary>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>MIT</project_license>
+  <developer id="io.github.cyb3rl00m">
+    <name>cyb3rl00m</name>
+  </developer>
+  <description>
+    <p>
+      Make your own clock, weather, calendar and system stats widgets and put them on your
+      desktop. Change colors, fonts, size and position and watch the widget update live.
+    </p>
+    <ul>
+      <li>Clock and date with any time zone</li>
+      <li>Weather from Open-Meteo with a city search, no account or API key</li>
+      <li>Month calendar with today highlighted</li>
+      <li>CPU, memory, disk and temperature</li>
+      <li>Ready-made themes, including a Nothing-style dot-matrix look</li>
+    </ul>
+    <p>Works on COSMIC, KDE Plasma and X11 desktops such as Cinnamon and XFCE. Widgets are drawn by Conky.</p>
+  </description>
+  <launchable type="desktop-id">io.github.cyb3rl00m.WidgetStudio.desktop</launchable>
+  <url type="homepage">https://github.com/cyb3rl00m/widget-studio</url>
+  <url type="bugtracker">https://github.com/cyb3rl00m/widget-studio/issues</url>
+  <content_rating type="oars-1.1"/>
+  <releases>
+    <release version="1.0.2" date="2026-10-23">
+      <description>
+        <ul>
+          <li>Updating is now just installing the new package: the background updater notices the new version and restarts itself</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.0.1" date="2026-10-23">
+      <description>
+        <ul>
+          <li>The calendar always lines up, even with fonts that aren't monospace</li>
+          <li>Widgets restart by themselves when a font they use gets installed</li>
+          <li>Starting and stopping widgets can no longer race into doubled widgets</li>
+        </ul>
+      </description>
+    </release>
+    <release version="1.0.0" date="2026-10-23">
+      <description><p>First release.</p></description>
+    </release>
+  </releases>
+</component>

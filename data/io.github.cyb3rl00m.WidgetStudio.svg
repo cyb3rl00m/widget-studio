@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <rect x="8" y="8" width="112" height="112" rx="24" fill="#0b2116"/>
+  <rect x="8" y="8" width="112" height="112" rx="24" fill="none" stroke="#2e6b3a" stroke-width="2"/>
+  <!-- dot-matrix clock face -->
+  <g fill="#81c784">
+    <circle cx="64" cy="22" r="3.2"/><circle cx="81" cy="26.6" r="2.4"/><circle cx="93.4" cy="39" r="2.4"/>
+    <circle cx="98" cy="56" r="3.2"/><circle cx="93.4" cy="73" r="2.4"/><circle cx="81" cy="85.4" r="2.4"/>
+    <circle cx="64" cy="90" r="3.2"/><circle cx="47" cy="85.4" r="2.4"/><circle cx="34.6" cy="73" r="2.4"/>
+    <circle cx="30" cy="56" r="3.2"/><circle cx="34.6" cy="39" r="2.4"/><circle cx="47" cy="26.6" r="2.4"/>
+  </g>
+  <!-- hands made of dots -->
+  <g fill="#e6ffe9">
+    <circle cx="64" cy="56" r="3.6"/>
+    <circle cx="64" cy="48" r="2.6"/><circle cx="64" cy="40" r="2.6"/><circle cx="64" cy="32" r="2.6"/>
+    <circle cx="71" cy="60" r="2.6"/><circle cx="78" cy="64" r="2.6"/>
+  </g>
+  <!-- little text lines below, like the widget's weather row -->
+  <g fill="#557f5f">
+    <circle cx="40" cy="104" r="2"/><circle cx="47" cy="104" r="2"/><circle cx="54" cy="104" r="2"/>
+    <circle cx="61" cy="104" r="2"/><circle cx="74" cy="104" r="2"/><circle cx="81" cy="104" r="2"/>
+    <circle cx="88" cy="104" r="2"/>
+  </g>
+</svg>
