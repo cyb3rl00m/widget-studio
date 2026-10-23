@@ -9,7 +9,7 @@
 A clock, the weather, this month's calendar and your system stats, styled exactly how you want
 them and pinned to your desktop.
 
-[![tests](https://github.com/cyb3rl00m/widget-studio/actions/workflows/tests.yml/badge.svg)](https://github.com/cyb3rl00m/widget-studio/actions/workflows/tests.yml)
+[![Made with Claude](https://img.shields.io/badge/made%20with-Claude-d97757)](#credits)
 [![release](https://img.shields.io/github/v/release/cyb3rl00m/widget-studio?color=2e6b3a)](https://github.com/cyb3rl00m/widget-studio/releases/latest)
 [![license](https://img.shields.io/github/license/cyb3rl00m/widget-studio?color=2e6b3a)](LICENSE)
 ![platform](https://img.shields.io/badge/platform-Linux-2e6b3a)
@@ -247,7 +247,7 @@ Bug reports and ideas are welcome in [Issues](https://github.com/cyb3rl00m/widge
 ## Credits
 
 - Made by **[cyb3rl00m](https://github.com/cyb3rl00m)**, built together with
-  **Claude by Anthropic**, which helped write and test the code.
+  **Claude by Anthropic** in VSCode, which helped write and test the code.
 - Widgets are drawn by **[Conky](https://github.com/brndnmtthws/conky)** (GPL-3.0). It's
   downloaded on request, not bundled.
 - Weather data by **[Open-Meteo.com](https://open-meteo.com/)** (CC BY 4.0).
