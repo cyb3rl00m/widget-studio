@@ -9,12 +9,11 @@
 A clock, the weather, this month's calendar and your system stats, styled exactly how you want
 them and pinned to your desktop.
 
+[![tests](https://github.com/cyb3rl00m/widget-studio/actions/workflows/tests.yml/badge.svg)](https://github.com/cyb3rl00m/widget-studio/actions/workflows/tests.yml)
 [![release](https://img.shields.io/github/v/release/cyb3rl00m/widget-studio?color=2e6b3a)](https://github.com/cyb3rl00m/widget-studio/releases/latest)
 [![license](https://img.shields.io/github/license/cyb3rl00m/widget-studio?color=2e6b3a)](LICENSE)
 ![platform](https://img.shields.io/badge/platform-Linux-2e6b3a)
 ![GTK 4](https://img.shields.io/badge/GTK%204-libadwaita-81c784)
-[![Made with Claude](https://img.shields.io/badge/made%20with-Claude-d97757)](#credits)
-
 
 [**Download**](https://github.com/cyb3rl00m/widget-studio/releases/latest) ·
 [Install](#install) ·
@@ -25,13 +24,22 @@ them and pinned to your desktop.
 
 </div>
 
-## Screenshots
+## Six themes, one click each
 
-<p align="center">
-  <img src="docs/screenshot-widget.png" width="380" alt="A widget made with Widget Studio on the desktop">
-  &nbsp;
-  <img src="docs/screenshot-app.png" width="560" alt="The Widget Studio editor">
-</p>
+Same widget, six looks. Every color and font can also be changed one by one.
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="docs/theme-forest.png" width="250" alt="Forest theme"><br><b>Forest</b></td>
+    <td align="center"><img src="docs/theme-nothing.png" width="250" alt="Nothing theme"><br><b>Nothing</b></td>
+    <td align="center"><img src="docs/theme-midnight.png" width="250" alt="Midnight theme"><br><b>Midnight</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="docs/theme-amber-terminal.png" width="250" alt="Amber terminal theme"><br><b>Amber terminal</b></td>
+    <td align="center"><img src="docs/theme-paper.png" width="250" alt="Paper theme"><br><b>Paper</b></td>
+    <td align="center"><img src="docs/theme-glass.png" width="250" alt="Glass theme"><br><b>Glass</b></td>
+  </tr>
+</table>
 
 ## Why Widget Studio?
 
